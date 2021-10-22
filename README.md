@@ -2,7 +2,7 @@
 
 This repository contains configuration files for running a single instance Consul Server on Centos with Vagrant. 
 
-Prerequsisits:  
+Prerequsisits:  <br />
 Intsall Virtual Box: https://www.virtualbox.org/wiki/Downloads. 
 Install Vagrant: https://www.vagrantup.com/downloads.  
 
